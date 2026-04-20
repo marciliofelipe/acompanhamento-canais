@@ -4,7 +4,7 @@ Dados diários de metas de investimento e vendas para 1P e 3P.
 
 ## 📈 Acessar os Dados
 
-**[Clique aqui para abrir a planilha com todos os dados]https://docs.google.com/spreadsheets/d/1l9tKrBqmeM_nWHOc_1fWSeDsdVgfz6VTwIu6rvxr7jw/edit?usp=sharing**
+**[Clique aqui para abrir a planilha com todos os dados] (https://docs.google.com/spreadsheets/d/1l9tKrBqmeM_nWHOc_1fWSeDsdVgfz6VTwIu6rvxr7jw/edit?usp=sharing)**
 
 Substitua `SEU_LINK_AQUI` pelo link que você copiou do Google Sheets.
 
